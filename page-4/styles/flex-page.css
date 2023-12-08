@@ -1,0 +1,506 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.flex-page-rub {
+  width: 100%;
+  height: 232.2rem;
+}
+.flex-page-rub .auto-group-srp3-WDT {
+  width: 140.2977rem;
+  height: 100%;
+  position: relative;
+}
+.flex-page-rub .auto-group-srp3-WDT .mask-group-aMj {
+  width: 16.7889rem;
+  height: 22.1376rem;
+  position: absolute;
+  left: 19.8032rem;
+  top: 21.5334rem;
+}
+.flex-page-rub .auto-group-srp3-WDT .rectangle-5-5ZP {
+  width: 140.2977rem;
+  height: 232.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #f5f4f2;
+}
+.flex-page-rub .auto-group-srp3-WDT .rectangle-12-BcR {
+  width: 15.4912rem;
+  height: 19.1rem;
+  position: absolute;
+  left: 89.3424rem;
+  top: 38.2rem;
+  background-color: #d9d9d9;
+}
+.flex-page-rub .auto-group-srp3-WDT .home-page-7W5 {
+  width: 13.9rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 63.6211rem;
+  top: 9.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.flex-page-rub .auto-group-srp3-WDT .barcina-AjF {
+  width: 19.7rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 15.1989rem;
+  top: 9rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #292420;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.flex-page-rub .auto-group-srp3-WDT .flex-page-GnH {
+  width: 12.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 119.3505rem;
+  top: 9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #7b6a5d;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.flex-page-rub .auto-group-srp3-WDT .it-blog-page-aHB {
+  width: 15.9rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 101.4235rem;
+  top: 8.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.flex-page-rub .auto-group-srp3-WDT .about-page-UdT {
+  width: 15rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 83.2043rem;
+  top: 8.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #231a08;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.flex-page-rub .auto-group-srp3-WDT .image-1-zbo {
+  width: 6.5367rem;
+  height: 9.6852rem;
+  position: absolute;
+  left: 8.106rem;
+  top: 6.2215rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.flex-page-rub .auto-group-srp3-WDT .rectangle-6-7gR {
+  width: 140.2977rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 0;
+  top: 220.5rem;
+  background-color: #f5f4f2;
+}
+.flex-page-rub .auto-group-srp3-WDT .facebook-icon-egM {
+  width: 4.0596rem;
+  height: 5.7189rem;
+  position: absolute;
+  left: 55.4371rem;
+  top: 225.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.flex-page-rub .auto-group-srp3-WDT .ig-icon-mky {
+  width: 4.4036rem;
+  height: 6.4568rem;
+  position: absolute;
+  left: 60.9905rem;
+  top: 224.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.flex-page-rub .auto-group-srp3-WDT .spotify-icon-iAR {
+  width: 4.5413rem;
+  height: 6.918rem;
+  position: absolute;
+  left: 67.908rem;
+  top: 224rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.flex-page-rub .auto-group-srp3-WDT .rectangle-7-3Tb {
+  width: 33.8078rem;
+  height: 33.6rem;
+  position: absolute;
+  left: 54.7551rem;
+  top: 36.5rem;
+  background-color: #d9d9d9;
+}
+.flex-page-rub .auto-group-srp3-WDT .rectangle-8-xaZ {
+  width: 24.8444rem;
+  height: 30.9rem;
+  position: absolute;
+  left: 28.839rem;
+  top: 49.2rem;
+  background-color: #d9d9d9;
+}
+.flex-page-rub .auto-group-srp3-WDT .rectangle-9-6gm {
+  width: 55.2422rem;
+  height: 41rem;
+  position: absolute;
+  left: 54.7551rem;
+  top: 71.7rem;
+  background-color: #d9d9d9;
+}
+.flex-page-rub .auto-group-srp3-WDT .my-soul-friend-sent-me-this-witchcraft-because-it-reminded-me-of-me-and-i-like-it-i-want-wanna-show-how-someone-reminisces-about-something-and-misses-you-and-at-the-same-time-they-truly-know-you-and-love-you-no-matter-how-far-they-are-SVj {
+  width: 23.7rem;
+  height: 45.9rem;
+  position: absolute;
+  left: 3.7997rem;
+  top: 37.5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #231a08;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .my-soul-friend-sent-me-this-witchcraft-because-it-reminded-me-of-me-and-i-like-it-i-want-wanna-show-how-someone-reminisces-about-something-and-misses-you-and-at-the-same-time-they-truly-know-you-and-love-you-no-matter-how-far-they-are-SVj .my-soul-friend-sent-me-this-witchcraft-because-it-reminded-me-of-me-and-i-like-it-i-want-wanna-show-how-someone-reminisces-about-something-and-misses-you-and-at-the-same-time-they-truly-know-you-and-love-you-no-matter-how-far-they-are-SVj-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #231a08;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .my-soul-friend-sent-me-this-witchcraft-because-it-reminded-me-of-me-and-i-like-it-i-want-wanna-show-how-someone-reminisces-about-something-and-misses-you-and-at-the-same-time-they-truly-know-you-and-love-you-no-matter-how-far-they-are-SVj .my-soul-friend-sent-me-this-witchcraft-because-it-reminded-me-of-me-and-i-like-it-i-want-wanna-show-how-someone-reminisces-about-something-and-misses-you-and-at-the-same-time-they-truly-know-you-and-love-you-no-matter-how-far-they-are-SVj-sub-1 {
+}
+.flex-page-rub .auto-group-srp3-WDT .rectangle-10-7Nu {
+  width: 23.9675rem;
+  height: 35.8rem;
+  position: absolute;
+  left: 2.046rem;
+  top: 83rem;
+  background-color: #d9d9d9;
+}
+.flex-page-rub .auto-group-srp3-WDT .n-1-FED {
+  width: 20.6549rem;
+  height: 28.2rem;
+  position: absolute;
+  left: 3.7997rem;
+  top: 86.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.flex-page-rub .auto-group-srp3-WDT .jayjay-1-xuK {
+  width: 29.521rem;
+  height: 27.6rem;
+  position: absolute;
+  left: 57.4831rem;
+  top: 39.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.flex-page-rub .auto-group-srp3-WDT .jayjay2-1-6kd {
+  width: 13.8349rem;
+  height: 16.4rem;
+  position: absolute;
+  left: 89.6346rem;
+  top: 39.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.flex-page-rub .auto-group-srp3-WDT .n-1-SJh {
+  width: 19.2909rem;
+  height: 26.7rem;
+  position: absolute;
+  left: 31.2747rem;
+  top: 51.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.flex-page-rub .auto-group-srp3-WDT .n-1-YsX {
+  width: 48.4222rem;
+  height: 36.9rem;
+  position: absolute;
+  left: 57.4831rem;
+  top: 74.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.flex-page-rub .auto-group-srp3-WDT .rectangle-11-GHj {
+  width: 29.6559rem;
+  height: 48.9795rem;
+  position: absolute;
+  left: 108.8281rem;
+  top: 124.8rem;
+  background-color: #d9d9d9;
+}
+.flex-page-rub .auto-group-srp3-WDT .jayjay3-1-bL1 {
+  width: 23.8761rem;
+  height: 40.4934rem;
+  position: absolute;
+  left: 110.8742rem;
+  top: 127.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.flex-page-rub .auto-group-srp3-WDT .synesthesia-by-mayonaisse-has-been-my-healing-song-from-its-melody-to-the-way-it-conveys-to-the-listener-the-endurance-of-waiting-without-assurance-how-long-could-you-wait-for-the-hopeful-dream-to-come-true-ivR {
+  width: 29.7rem;
+  height: 36.5rem;
+  position: absolute;
+  left: 106.6847rem;
+  top: 24.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #110505;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .synesthesia-by-mayonaisse-has-been-my-healing-song-from-its-melody-to-the-way-it-conveys-to-the-listener-the-endurance-of-waiting-without-assurance-how-long-could-you-wait-for-the-hopeful-dream-to-come-true-ivR .synesthesia-by-mayonaisse-has-been-my-healing-song-from-its-melody-to-the-way-it-conveys-to-the-listener-the-endurance-of-waiting-without-assurance-how-long-could-you-wait-for-the-hopeful-dream-to-come-true-ivR-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #110505;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .synesthesia-by-mayonaisse-has-been-my-healing-song-from-its-melody-to-the-way-it-conveys-to-the-listener-the-endurance-of-waiting-without-assurance-how-long-could-you-wait-for-the-hopeful-dream-to-come-true-ivR .synesthesia-by-mayonaisse-has-been-my-healing-song-from-its-melody-to-the-way-it-conveys-to-the-listener-the-endurance-of-waiting-without-assurance-how-long-could-you-wait-for-the-hopeful-dream-to-come-true-ivR-sub-1 {
+}
+.flex-page-rub .auto-group-srp3-WDT .tt-was-my-graduation-day-i-received-a-high-honor-when-finishing-my-senior-year-but-i-wasnt-happy-because-of-a-lot-of-instances-i-really-hated-that-day-because-of-how-things-sabotaged-me-all-in-all-i-conclude-that-it-was-a-flex-for-things-i-ended-up-doing-that-day-my-school-year-was-a-total-rough-road-for-me-and-im-glad-i-survived-Ndb {
+  width: 48.4rem;
+  height: 33.4rem;
+  position: absolute;
+  left: 57.4831rem;
+  top: 115rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #292420;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .tt-was-my-graduation-day-i-received-a-high-honor-when-finishing-my-senior-year-but-i-wasnt-happy-because-of-a-lot-of-instances-i-really-hated-that-day-because-of-how-things-sabotaged-me-all-in-all-i-conclude-that-it-was-a-flex-for-things-i-ended-up-doing-that-day-my-school-year-was-a-total-rough-road-for-me-and-im-glad-i-survived-Ndb .tt-was-my-graduation-day-i-received-a-high-honor-when-finishing-my-senior-year-but-i-wasnt-happy-because-of-a-lot-of-instances-i-really-hated-that-day-because-of-how-things-sabotaged-me-all-in-all-i-conclude-that-it-was-a-flex-for-things-i-ended-up-doing-that-day-my-school-year-was-a-total-rough-road-for-me-and-im-glad-i-survived-Ndb-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #292420;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .tt-was-my-graduation-day-i-received-a-high-honor-when-finishing-my-senior-year-but-i-wasnt-happy-because-of-a-lot-of-instances-i-really-hated-that-day-because-of-how-things-sabotaged-me-all-in-all-i-conclude-that-it-was-a-flex-for-things-i-ended-up-doing-that-day-my-school-year-was-a-total-rough-road-for-me-and-im-glad-i-survived-Ndb .tt-was-my-graduation-day-i-received-a-high-honor-when-finishing-my-senior-year-but-i-wasnt-happy-because-of-a-lot-of-instances-i-really-hated-that-day-because-of-how-things-sabotaged-me-all-in-all-i-conclude-that-it-was-a-flex-for-things-i-ended-up-doing-that-day-my-school-year-was-a-total-rough-road-for-me-and-im-glad-i-survived-Ndb-sub-1 {
+}
+.flex-page-rub .auto-group-srp3-WDT .synesthesia-is-an-image-sense-as-you-see-something-it-reminded-of-someone-a-living-nostalgia-k1s {
+  width: 39.2rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 91.0961rem;
+  top: 56.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #110505;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .synesthesia-is-an-image-sense-as-you-see-something-it-reminded-of-someone-a-living-nostalgia-k1s .synesthesia-is-an-image-sense-as-you-see-something-it-reminded-of-someone-a-living-nostalgia-k1s-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #110505;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .synesthesia-is-an-image-sense-as-you-see-something-it-reminded-of-someone-a-living-nostalgia-k1s .synesthesia-is-an-image-sense-as-you-see-something-it-reminded-of-someone-a-living-nostalgia-k1s-sub-1 {
+}
+.flex-page-rub .auto-group-srp3-WDT .rectangle-13-7Wd {
+  width: 51.4425rem;
+  height: 47.1rem;
+  position: absolute;
+  left: 3.3126rem;
+  top: 130.7rem;
+  background-color: #d9d9d9;
+}
+.flex-page-rub .auto-group-srp3-WDT .pretty-girls-love-reading-books-T4h {
+  width: 39.7rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 0.682rem;
+  top: 117.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.flex-page-rub .auto-group-srp3-WDT .pretty-girls-love-reading-books-T4h .pretty-girls-love-reading-books-T4h-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .pretty-girls-love-reading-books-T4h .pretty-girls-love-reading-books-T4h-sub-1 {
+}
+.flex-page-rub .auto-group-srp3-WDT .rectangle-14-eey {
+  width: 48.0325rem;
+  height: 41.9rem;
+  position: absolute;
+  left: 58.4574rem;
+  top: 152.1rem;
+  background-color: #d9d9d9;
+}
+.flex-page-rub .auto-group-srp3-WDT .jayjay7-1-nmB {
+  width: 47.0582rem;
+  height: 39.6rem;
+  position: absolute;
+  left: 5.3586rem;
+  top: 133.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.flex-page-rub .auto-group-srp3-WDT .no-1-Xim {
+  width: 43.0636rem;
+  height: 38.3rem;
+  position: absolute;
+  left: 60.9905rem;
+  top: 154.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.flex-page-rub .auto-group-srp3-WDT .moths-and-butterflies-fascinate-me-so-much-because-theyre-those-insects-who-can-fly-yet-cant-flee-further-theyre-just-trapped-in-their-beauty-in-a-short-span-of-time-then-sadly-die-after-days-theyre-those-beautiful-things-that-are-easily-forgotten-because-of-their-uncertain-events-4ih {
+  width: 23.9rem;
+  height: 52.1rem;
+  position: absolute;
+  left: 110.4844rem;
+  top: 71.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .moths-and-butterflies-fascinate-me-so-much-because-theyre-those-insects-who-can-fly-yet-cant-flee-further-theyre-just-trapped-in-their-beauty-in-a-short-span-of-time-then-sadly-die-after-days-theyre-those-beautiful-things-that-are-easily-forgotten-because-of-their-uncertain-events-4ih .moths-and-butterflies-fascinate-me-so-much-because-theyre-those-insects-who-can-fly-yet-cant-flee-further-theyre-just-trapped-in-their-beauty-in-a-short-span-of-time-then-sadly-die-after-days-theyre-those-beautiful-things-that-are-easily-forgotten-because-of-their-uncertain-events-4ih-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .moths-and-butterflies-fascinate-me-so-much-because-theyre-those-insects-who-can-fly-yet-cant-flee-further-theyre-just-trapped-in-their-beauty-in-a-short-span-of-time-then-sadly-die-after-days-theyre-those-beautiful-things-that-are-easily-forgotten-because-of-their-uncertain-events-4ih .moths-and-butterflies-fascinate-me-so-much-because-theyre-those-insects-who-can-fly-yet-cant-flee-further-theyre-just-trapped-in-their-beauty-in-a-short-span-of-time-then-sadly-die-after-days-theyre-those-beautiful-things-that-are-easily-forgotten-because-of-their-uncertain-events-4ih-sub-1 {
+}
+.flex-page-rub .auto-group-srp3-WDT .i-love-reading-books-because-they-are-wholesome-both-asylum-and-sanctuary-it-always-fascinates-me-about-the-unravel-pages-the-fragrance-of-the-new-book-and-how-imaginative-all-the-authors-are-i-salute-them-for-making-my-kind-of-drug-h9P {
+  width: 22.3rem;
+  height: 45.9rem;
+  position: absolute;
+  left: 30.203rem;
+  top: 80rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .i-love-reading-books-because-they-are-wholesome-both-asylum-and-sanctuary-it-always-fascinates-me-about-the-unravel-pages-the-fragrance-of-the-new-book-and-how-imaginative-all-the-authors-are-i-salute-them-for-making-my-kind-of-drug-h9P .i-love-reading-books-because-they-are-wholesome-both-asylum-and-sanctuary-it-always-fascinates-me-about-the-unravel-pages-the-fragrance-of-the-new-book-and-how-imaginative-all-the-authors-are-i-salute-them-for-making-my-kind-of-drug-h9P-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .i-love-reading-books-because-they-are-wholesome-both-asylum-and-sanctuary-it-always-fascinates-me-about-the-unravel-pages-the-fragrance-of-the-new-book-and-how-imaginative-all-the-authors-are-i-salute-them-for-making-my-kind-of-drug-h9P .i-love-reading-books-because-they-are-wholesome-both-asylum-and-sanctuary-it-always-fascinates-me-about-the-unravel-pages-the-fragrance-of-the-new-book-and-how-imaginative-all-the-authors-are-i-salute-them-for-making-my-kind-of-drug-h9P-sub-1 {
+}
+.flex-page-rub .auto-group-srp3-WDT .tell-me-who-your-friends-are-and-i-will-tell-you-who-you-are-ive-been-years-with-these-amazing-humans-i-know-they-know-me-so-well-in-that-7-year-span-with-them-i-am-certain-i-want-to-tie-my-knot-with-them-and-do-all-i-can-to-protect-them-wC9 {
+  width: 53.4rem;
+  height: 24rem;
+  position: absolute;
+  left: 3.41rem;
+  top: 176.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .tell-me-who-your-friends-are-and-i-will-tell-you-who-you-are-ive-been-years-with-these-amazing-humans-i-know-they-know-me-so-well-in-that-7-year-span-with-them-i-am-certain-i-want-to-tie-my-knot-with-them-and-do-all-i-can-to-protect-them-wC9 .tell-me-who-your-friends-are-and-i-will-tell-you-who-you-are-ive-been-years-with-these-amazing-humans-i-know-they-know-me-so-well-in-that-7-year-span-with-them-i-am-certain-i-want-to-tie-my-knot-with-them-and-do-all-i-can-to-protect-them-wC9-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .tell-me-who-your-friends-are-and-i-will-tell-you-who-you-are-ive-been-years-with-these-amazing-humans-i-know-they-know-me-so-well-in-that-7-year-span-with-them-i-am-certain-i-want-to-tie-my-knot-with-them-and-do-all-i-can-to-protect-them-wC9 .tell-me-who-your-friends-are-and-i-will-tell-you-who-you-are-ive-been-years-with-these-amazing-humans-i-know-they-know-me-so-well-in-that-7-year-span-with-them-i-am-certain-i-want-to-tie-my-knot-with-them-and-do-all-i-can-to-protect-them-wC9-sub-1 {
+}
+.flex-page-rub .auto-group-srp3-WDT .being-talentless-sucks-i-mean-its-a-wholesome-complex-battling-where-you-actually-belong-i-learned-the-keys-to-the-piano-in-7th-grade-but-eventually-stopped-my-passion-to-do-so-but-i-am-certain-i-could-play-this-instrument-in-my-possession-dDP {
+  width: 55.8rem;
+  height: 24rem;
+  position: absolute;
+  left: 63.0365rem;
+  top: 192.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .being-talentless-sucks-i-mean-its-a-wholesome-complex-battling-where-you-actually-belong-i-learned-the-keys-to-the-piano-in-7th-grade-but-eventually-stopped-my-passion-to-do-so-but-i-am-certain-i-could-play-this-instrument-in-my-possession-dDP .being-talentless-sucks-i-mean-its-a-wholesome-complex-battling-where-you-actually-belong-i-learned-the-keys-to-the-piano-in-7th-grade-but-eventually-stopped-my-passion-to-do-so-but-i-am-certain-i-could-play-this-instrument-in-my-possession-dDP-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .being-talentless-sucks-i-mean-its-a-wholesome-complex-battling-where-you-actually-belong-i-learned-the-keys-to-the-piano-in-7th-grade-but-eventually-stopped-my-passion-to-do-so-but-i-am-certain-i-could-play-this-instrument-in-my-possession-dDP .being-talentless-sucks-i-mean-its-a-wholesome-complex-battling-where-you-actually-belong-i-learned-the-keys-to-the-piano-in-7th-grade-but-eventually-stopped-my-passion-to-do-so-but-i-am-certain-i-could-play-this-instrument-in-my-possession-dDP-sub-1 {
+}
+.flex-page-rub .auto-group-srp3-WDT .my-flex-page-is-full-of-uncertain-stuff-that-meant-so-much-to-me-so-welcome-to-my-flex-page-to-venture-into-the-life-inside-my-mind-725 {
+  width: 50rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 50.5656rem;
+  top: 22.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .my-flex-page-is-full-of-uncertain-stuff-that-meant-so-much-to-me-so-welcome-to-my-flex-page-to-venture-into-the-life-inside-my-mind-725 .my-flex-page-is-full-of-uncertain-stuff-that-meant-so-much-to-me-so-welcome-to-my-flex-page-to-venture-into-the-life-inside-my-mind-725-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+}
+.flex-page-rub .auto-group-srp3-WDT .my-flex-page-is-full-of-uncertain-stuff-that-meant-so-much-to-me-so-welcome-to-my-flex-page-to-venture-into-the-life-inside-my-mind-725 .my-flex-page-is-full-of-uncertain-stuff-that-meant-so-much-to-me-so-welcome-to-my-flex-page-to-venture-into-the-life-inside-my-mind-725-sub-1 {
+}
+.flex-page-rub .auto-group-srp3-WDT .line-3-fSu {
+  width: 136.5954rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 3.7023rem;
+  top: 15.7rem;
+  background-color: #000000;
+}

@@ -1,0 +1,258 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 143.9rem;
+}.it-blog-page-nay {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.it-blog-page-nay .home-page-L6h {
+  margin: 0rem 9rem 11.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.it-blog-page-nay .auto-group-rrwx-317 {
+  width: 100%;
+  height: 248.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.it-blog-page-nay .auto-group-rrwx-317 .rectangle-1-a13 {
+  width: 143.9rem;
+  height: 248.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #f5f4f2;
+}
+.it-blog-page-nay .auto-group-rrwx-317 .studying2-1-up1 {
+  width: 57rem;
+  height: 31.4rem;
+  position: absolute;
+  left: 13.8rem;
+  top: 51.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.it-blog-page-nay .auto-group-rrwx-317 .studying4-1-F7B {
+  width: 44.5rem;
+  height: 41.4rem;
+  position: absolute;
+  left: 52.2rem;
+  top: 66.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.it-blog-page-nay .auto-group-rrwx-317 .image-1-z4m {
+  width: 9.5rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.it-blog-page-nay .auto-group-rrwx-317 .line-1-Jr9 {
+  width: 141.4rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 15.5rem;
+  background-color: #000000;
+}
+.it-blog-page-nay .auto-group-rrwx-317 .barcina-qbB {
+  width: 19.7rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 8.9rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #292420;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.it-blog-page-nay .auto-group-rrwx-317 .about-page-Z1P {
+  width: 15rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 78.826rem;
+  top: 9.2363rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.it-blog-page-nay .auto-group-rrwx-317 .it-blog-page-4Tw {
+  width: 15.9rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 96.7rem;
+  top: 9.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #7b6a5d;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.it-blog-page-nay .auto-group-rrwx-317 .flex-page-AWy {
+  width: 12.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 115.3rem;
+  top: 9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.it-blog-page-nay .auto-group-rrwx-317 .home-page-tC5 {
+  width: 13.9rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 60.7rem;
+  top: 9.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.it-blog-page-nay .auto-group-rrwx-317 .image-2-zW1 {
+  width: 131.2rem;
+  height: 57.1rem;
+  position: absolute;
+  left: 8.3rem;
+  top: 174.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.it-blog-page-nay .auto-group-rrwx-317 .rectangle-6-86R {
+  width: 143.9rem;
+  height: 13.6rem;
+  position: absolute;
+  left: 0;
+  top: 234.7rem;
+  background-color: #f5f4f2;
+}
+.it-blog-page-nay .auto-group-rrwx-317 .neo-1-GTX {
+  width: 11.1rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 66.4rem;
+  top: 235.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.it-blog-page-nay .auto-group-rrwx-317 .studying-1-6SZ {
+  width: 41.5rem;
+  height: 37.2rem;
+  position: absolute;
+  left: 58rem;
+  top: 29.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.it-blog-page-nay .auto-group-rrwx-317 .studying3-1-dhP {
+  width: 42.2rem;
+  height: 36.4rem;
+  position: absolute;
+  left: 93.5rem;
+  top: 51.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.it-blog-page-nay .auto-group-rrwx-317 .introduction-to-computing-2Dj {
+  width: 64.1rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 8rem;
+  top: 23.4rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #191918;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.it-blog-page-nay .auto-group-rrwx-317 .rectangle-7-vpu {
+  width: 126rem;
+  height: 57.3rem;
+  position: absolute;
+  left: 10rem;
+  top: 110.9rem;
+  background-color: #d9d9d9;
+}
+.it-blog-page-nay .auto-group-rrwx-317 .chapter-1-what-is-computing-computing-is-the-use-of-computers-to-solve-problems-or-complete-tasks-it-can-be-as-simple-as-using-a-calculator-to-add-two-numbers-or-as-complex-as-developing-a-new-algorithm-for-machine-learning-computer-is-a-programmable-device-that-stores-retrieves-and-processes-data-the-term-computer-was-originally-given-to-humans-human-computers-who-performed-numerical-calculations-using-mechanical-calculators-such-as-the-abacus-and-slide-rule-basic-components-of-a-computer-computers-consist-of-hardware-and-software-components-hardware-includes-the-physical-parts-like-the-central-processing-unit-cpu-memory-storage-devices-input-devices-keyboard-mouse-and-output-devices-monitor-printer-software-refers-to-the-programs-and-applications-that-run-on-the-hardware-types-of-computers-computers-come-in-various-forms-including-personal-computers-desktops-laptops-servers-mainframes-and-supercomputers-each-type-serves-different-purposes-and-has-varying-levels-of-processing-power-ryT {
+  width: 113.6rem;
+  height: 52.6rem;
+  position: absolute;
+  left: 15.8rem;
+  top: 113.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.it-blog-page-nay .auto-group-rrwx-317 .chapter-1-what-is-computing-computing-is-the-use-of-computers-to-solve-problems-or-complete-tasks-it-can-be-as-simple-as-using-a-calculator-to-add-two-numbers-or-as-complex-as-developing-a-new-algorithm-for-machine-learning-computer-is-a-programmable-device-that-stores-retrieves-and-processes-data-the-term-computer-was-originally-given-to-humans-human-computers-who-performed-numerical-calculations-using-mechanical-calculators-such-as-the-abacus-and-slide-rule-basic-components-of-a-computer-computers-consist-of-hardware-and-software-components-hardware-includes-the-physical-parts-like-the-central-processing-unit-cpu-memory-storage-devices-input-devices-keyboard-mouse-and-output-devices-monitor-printer-software-refers-to-the-programs-and-applications-that-run-on-the-hardware-types-of-computers-computers-come-in-various-forms-including-personal-computers-desktops-laptops-servers-mainframes-and-supercomputers-each-type-serves-different-purposes-and-has-varying-levels-of-processing-power-ryT .chapter-1-what-is-computing-computing-is-the-use-of-computers-to-solve-problems-or-complete-tasks-it-can-be-as-simple-as-using-a-calculator-to-add-two-numbers-or-as-complex-as-developing-a-new-algorithm-for-machine-learning-computer-is-a-programmable-device-that-stores-retrieves-and-processes-data-the-term-computer-was-originally-given-to-humans-human-computers-who-performed-numerical-calculations-using-mechanical-calculators-such-as-the-abacus-and-slide-rule-basic-components-of-a-computer-computers-consist-of-hardware-and-software-components-hardware-includes-the-physical-parts-like-the-central-processing-unit-cpu-memory-storage-devices-input-devices-keyboard-mouse-and-output-devices-monitor-printer-software-refers-to-the-programs-and-applications-that-run-on-the-hardware-types-of-computers-computers-come-in-various-forms-including-personal-computers-desktops-laptops-servers-mainframes-and-supercomputers-each-type-serves-different-purposes-and-has-varying-levels-of-processing-power-ryT-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.it-blog-page-nay .auto-group-rrwx-317 .chapter-1-what-is-computing-computing-is-the-use-of-computers-to-solve-problems-or-complete-tasks-it-can-be-as-simple-as-using-a-calculator-to-add-two-numbers-or-as-complex-as-developing-a-new-algorithm-for-machine-learning-computer-is-a-programmable-device-that-stores-retrieves-and-processes-data-the-term-computer-was-originally-given-to-humans-human-computers-who-performed-numerical-calculations-using-mechanical-calculators-such-as-the-abacus-and-slide-rule-basic-components-of-a-computer-computers-consist-of-hardware-and-software-components-hardware-includes-the-physical-parts-like-the-central-processing-unit-cpu-memory-storage-devices-input-devices-keyboard-mouse-and-output-devices-monitor-printer-software-refers-to-the-programs-and-applications-that-run-on-the-hardware-types-of-computers-computers-come-in-various-forms-including-personal-computers-desktops-laptops-servers-mainframes-and-supercomputers-each-type-serves-different-purposes-and-has-varying-levels-of-processing-power-ryT .chapter-1-what-is-computing-computing-is-the-use-of-computers-to-solve-problems-or-complete-tasks-it-can-be-as-simple-as-using-a-calculator-to-add-two-numbers-or-as-complex-as-developing-a-new-algorithm-for-machine-learning-computer-is-a-programmable-device-that-stores-retrieves-and-processes-data-the-term-computer-was-originally-given-to-humans-human-computers-who-performed-numerical-calculations-using-mechanical-calculators-such-as-the-abacus-and-slide-rule-basic-components-of-a-computer-computers-consist-of-hardware-and-software-components-hardware-includes-the-physical-parts-like-the-central-processing-unit-cpu-memory-storage-devices-input-devices-keyboard-mouse-and-output-devices-monitor-printer-software-refers-to-the-programs-and-applications-that-run-on-the-hardware-types-of-computers-computers-come-in-various-forms-including-personal-computers-desktops-laptops-servers-mainframes-and-supercomputers-each-type-serves-different-purposes-and-has-varying-levels-of-processing-power-ryT-sub-1 {
+}
+.it-blog-page-nay .auto-group-rrwx-317 .chapter-1-what-is-computing-computing-is-the-use-of-computers-to-solve-problems-or-complete-tasks-it-can-be-as-simple-as-using-a-calculator-to-add-two-numbers-or-as-complex-as-developing-a-new-algorithm-for-machine-learning-computer-is-a-programmable-device-that-stores-retrieves-and-processes-data-the-term-computer-was-originally-given-to-humans-human-computers-who-performed-numerical-calculations-using-mechanical-calculators-such-as-the-abacus-and-slide-rule-basic-components-of-a-computer-computers-consist-of-hardware-and-software-components-hardware-includes-the-physical-parts-like-the-central-processing-unit-cpu-memory-storage-devices-input-devices-keyboard-mouse-and-output-devices-monitor-printer-software-refers-to-the-programs-and-applications-that-run-on-the-hardware-types-of-computers-computers-come-in-various-forms-including-personal-computers-desktops-laptops-servers-mainframes-and-supercomputers-each-type-serves-different-purposes-and-has-varying-levels-of-processing-power-ryT .chapter-1-what-is-computing-computing-is-the-use-of-computers-to-solve-problems-or-complete-tasks-it-can-be-as-simple-as-using-a-calculator-to-add-two-numbers-or-as-complex-as-developing-a-new-algorithm-for-machine-learning-computer-is-a-programmable-device-that-stores-retrieves-and-processes-data-the-term-computer-was-originally-given-to-humans-human-computers-who-performed-numerical-calculations-using-mechanical-calculators-such-as-the-abacus-and-slide-rule-basic-components-of-a-computer-computers-consist-of-hardware-and-software-components-hardware-includes-the-physical-parts-like-the-central-processing-unit-cpu-memory-storage-devices-input-devices-keyboard-mouse-and-output-devices-monitor-printer-software-refers-to-the-programs-and-applications-that-run-on-the-hardware-types-of-computers-computers-come-in-various-forms-including-personal-computers-desktops-laptops-servers-mainframes-and-supercomputers-each-type-serves-different-purposes-and-has-varying-levels-of-processing-power-ryT-sub-2 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.it-blog-page-nay .auto-group-rrwx-317 .chapter-1-what-is-computing-computing-is-the-use-of-computers-to-solve-problems-or-complete-tasks-it-can-be-as-simple-as-using-a-calculator-to-add-two-numbers-or-as-complex-as-developing-a-new-algorithm-for-machine-learning-computer-is-a-programmable-device-that-stores-retrieves-and-processes-data-the-term-computer-was-originally-given-to-humans-human-computers-who-performed-numerical-calculations-using-mechanical-calculators-such-as-the-abacus-and-slide-rule-basic-components-of-a-computer-computers-consist-of-hardware-and-software-components-hardware-includes-the-physical-parts-like-the-central-processing-unit-cpu-memory-storage-devices-input-devices-keyboard-mouse-and-output-devices-monitor-printer-software-refers-to-the-programs-and-applications-that-run-on-the-hardware-types-of-computers-computers-come-in-various-forms-including-personal-computers-desktops-laptops-servers-mainframes-and-supercomputers-each-type-serves-different-purposes-and-has-varying-levels-of-processing-power-ryT .chapter-1-what-is-computing-computing-is-the-use-of-computers-to-solve-problems-or-complete-tasks-it-can-be-as-simple-as-using-a-calculator-to-add-two-numbers-or-as-complex-as-developing-a-new-algorithm-for-machine-learning-computer-is-a-programmable-device-that-stores-retrieves-and-processes-data-the-term-computer-was-originally-given-to-humans-human-computers-who-performed-numerical-calculations-using-mechanical-calculators-such-as-the-abacus-and-slide-rule-basic-components-of-a-computer-computers-consist-of-hardware-and-software-components-hardware-includes-the-physical-parts-like-the-central-processing-unit-cpu-memory-storage-devices-input-devices-keyboard-mouse-and-output-devices-monitor-printer-software-refers-to-the-programs-and-applications-that-run-on-the-hardware-types-of-computers-computers-come-in-various-forms-including-personal-computers-desktops-laptops-servers-mainframes-and-supercomputers-each-type-serves-different-purposes-and-has-varying-levels-of-processing-power-ryT-sub-3 {
+}
+.it-blog-page-nay .auto-group-rrwx-317 .chapter-1-what-is-computing-computing-is-the-use-of-computers-to-solve-problems-or-complete-tasks-it-can-be-as-simple-as-using-a-calculator-to-add-two-numbers-or-as-complex-as-developing-a-new-algorithm-for-machine-learning-computer-is-a-programmable-device-that-stores-retrieves-and-processes-data-the-term-computer-was-originally-given-to-humans-human-computers-who-performed-numerical-calculations-using-mechanical-calculators-such-as-the-abacus-and-slide-rule-basic-components-of-a-computer-computers-consist-of-hardware-and-software-components-hardware-includes-the-physical-parts-like-the-central-processing-unit-cpu-memory-storage-devices-input-devices-keyboard-mouse-and-output-devices-monitor-printer-software-refers-to-the-programs-and-applications-that-run-on-the-hardware-types-of-computers-computers-come-in-various-forms-including-personal-computers-desktops-laptops-servers-mainframes-and-supercomputers-each-type-serves-different-purposes-and-has-varying-levels-of-processing-power-ryT .chapter-1-what-is-computing-computing-is-the-use-of-computers-to-solve-problems-or-complete-tasks-it-can-be-as-simple-as-using-a-calculator-to-add-two-numbers-or-as-complex-as-developing-a-new-algorithm-for-machine-learning-computer-is-a-programmable-device-that-stores-retrieves-and-processes-data-the-term-computer-was-originally-given-to-humans-human-computers-who-performed-numerical-calculations-using-mechanical-calculators-such-as-the-abacus-and-slide-rule-basic-components-of-a-computer-computers-consist-of-hardware-and-software-components-hardware-includes-the-physical-parts-like-the-central-processing-unit-cpu-memory-storage-devices-input-devices-keyboard-mouse-and-output-devices-monitor-printer-software-refers-to-the-programs-and-applications-that-run-on-the-hardware-types-of-computers-computers-come-in-various-forms-including-personal-computers-desktops-laptops-servers-mainframes-and-supercomputers-each-type-serves-different-purposes-and-has-varying-levels-of-processing-power-ryT-sub-4 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.it-blog-page-nay .auto-group-rrwx-317 .chapter-1-what-is-computing-computing-is-the-use-of-computers-to-solve-problems-or-complete-tasks-it-can-be-as-simple-as-using-a-calculator-to-add-two-numbers-or-as-complex-as-developing-a-new-algorithm-for-machine-learning-computer-is-a-programmable-device-that-stores-retrieves-and-processes-data-the-term-computer-was-originally-given-to-humans-human-computers-who-performed-numerical-calculations-using-mechanical-calculators-such-as-the-abacus-and-slide-rule-basic-components-of-a-computer-computers-consist-of-hardware-and-software-components-hardware-includes-the-physical-parts-like-the-central-processing-unit-cpu-memory-storage-devices-input-devices-keyboard-mouse-and-output-devices-monitor-printer-software-refers-to-the-programs-and-applications-that-run-on-the-hardware-types-of-computers-computers-come-in-various-forms-including-personal-computers-desktops-laptops-servers-mainframes-and-supercomputers-each-type-serves-different-purposes-and-has-varying-levels-of-processing-power-ryT .chapter-1-what-is-computing-computing-is-the-use-of-computers-to-solve-problems-or-complete-tasks-it-can-be-as-simple-as-using-a-calculator-to-add-two-numbers-or-as-complex-as-developing-a-new-algorithm-for-machine-learning-computer-is-a-programmable-device-that-stores-retrieves-and-processes-data-the-term-computer-was-originally-given-to-humans-human-computers-who-performed-numerical-calculations-using-mechanical-calculators-such-as-the-abacus-and-slide-rule-basic-components-of-a-computer-computers-consist-of-hardware-and-software-components-hardware-includes-the-physical-parts-like-the-central-processing-unit-cpu-memory-storage-devices-input-devices-keyboard-mouse-and-output-devices-monitor-printer-software-refers-to-the-programs-and-applications-that-run-on-the-hardware-types-of-computers-computers-come-in-various-forms-including-personal-computers-desktops-laptops-servers-mainframes-and-supercomputers-each-type-serves-different-purposes-and-has-varying-levels-of-processing-power-ryT-sub-5 {
+}
+.it-blog-page-nay .auto-group-rrwx-317 .chapter-1-what-is-computing-computing-is-the-use-of-computers-to-solve-problems-or-complete-tasks-it-can-be-as-simple-as-using-a-calculator-to-add-two-numbers-or-as-complex-as-developing-a-new-algorithm-for-machine-learning-computer-is-a-programmable-device-that-stores-retrieves-and-processes-data-the-term-computer-was-originally-given-to-humans-human-computers-who-performed-numerical-calculations-using-mechanical-calculators-such-as-the-abacus-and-slide-rule-basic-components-of-a-computer-computers-consist-of-hardware-and-software-components-hardware-includes-the-physical-parts-like-the-central-processing-unit-cpu-memory-storage-devices-input-devices-keyboard-mouse-and-output-devices-monitor-printer-software-refers-to-the-programs-and-applications-that-run-on-the-hardware-types-of-computers-computers-come-in-various-forms-including-personal-computers-desktops-laptops-servers-mainframes-and-supercomputers-each-type-serves-different-purposes-and-has-varying-levels-of-processing-power-ryT .chapter-1-what-is-computing-computing-is-the-use-of-computers-to-solve-problems-or-complete-tasks-it-can-be-as-simple-as-using-a-calculator-to-add-two-numbers-or-as-complex-as-developing-a-new-algorithm-for-machine-learning-computer-is-a-programmable-device-that-stores-retrieves-and-processes-data-the-term-computer-was-originally-given-to-humans-human-computers-who-performed-numerical-calculations-using-mechanical-calculators-such-as-the-abacus-and-slide-rule-basic-components-of-a-computer-computers-consist-of-hardware-and-software-components-hardware-includes-the-physical-parts-like-the-central-processing-unit-cpu-memory-storage-devices-input-devices-keyboard-mouse-and-output-devices-monitor-printer-software-refers-to-the-programs-and-applications-that-run-on-the-hardware-types-of-computers-computers-come-in-various-forms-including-personal-computers-desktops-laptops-servers-mainframes-and-supercomputers-each-type-serves-different-purposes-and-has-varying-levels-of-processing-power-ryT-sub-6 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.it-blog-page-nay .auto-group-rrwx-317 .chapter-1-what-is-computing-computing-is-the-use-of-computers-to-solve-problems-or-complete-tasks-it-can-be-as-simple-as-using-a-calculator-to-add-two-numbers-or-as-complex-as-developing-a-new-algorithm-for-machine-learning-computer-is-a-programmable-device-that-stores-retrieves-and-processes-data-the-term-computer-was-originally-given-to-humans-human-computers-who-performed-numerical-calculations-using-mechanical-calculators-such-as-the-abacus-and-slide-rule-basic-components-of-a-computer-computers-consist-of-hardware-and-software-components-hardware-includes-the-physical-parts-like-the-central-processing-unit-cpu-memory-storage-devices-input-devices-keyboard-mouse-and-output-devices-monitor-printer-software-refers-to-the-programs-and-applications-that-run-on-the-hardware-types-of-computers-computers-come-in-various-forms-including-personal-computers-desktops-laptops-servers-mainframes-and-supercomputers-each-type-serves-different-purposes-and-has-varying-levels-of-processing-power-ryT .chapter-1-what-is-computing-computing-is-the-use-of-computers-to-solve-problems-or-complete-tasks-it-can-be-as-simple-as-using-a-calculator-to-add-two-numbers-or-as-complex-as-developing-a-new-algorithm-for-machine-learning-computer-is-a-programmable-device-that-stores-retrieves-and-processes-data-the-term-computer-was-originally-given-to-humans-human-computers-who-performed-numerical-calculations-using-mechanical-calculators-such-as-the-abacus-and-slide-rule-basic-components-of-a-computer-computers-consist-of-hardware-and-software-components-hardware-includes-the-physical-parts-like-the-central-processing-unit-cpu-memory-storage-devices-input-devices-keyboard-mouse-and-output-devices-monitor-printer-software-refers-to-the-programs-and-applications-that-run-on-the-hardware-types-of-computers-computers-come-in-various-forms-including-personal-computers-desktops-laptops-servers-mainframes-and-supercomputers-each-type-serves-different-purposes-and-has-varying-levels-of-processing-power-ryT-sub-7 {
+}
